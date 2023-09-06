@@ -45,7 +45,7 @@
 <td>
 
 <!-- 贪吃蛇代码贡献图 -->
-![](https://raw.githubusercontent.com/Suyunyixi/Suyunyixi/main/assets/github-contribution-grid-snake.svg)
+<!-- ![](https://raw.githubusercontent.com/Suyunyixi/Suyunyixi/main/assets/github-contribution-grid-snake.svg) -->
 
 
 
