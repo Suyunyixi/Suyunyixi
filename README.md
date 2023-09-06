@@ -59,9 +59,9 @@
 <!-- 语言占比 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suyunyixi&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
+
 
 <!-- 活动 -->
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Suyunyixi)](https://github.com/ashutosh00710/github-readme-activity-graph)
--->
+
 <!-- Wakatime Graph-->
