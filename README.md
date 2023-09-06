@@ -32,10 +32,10 @@
 
 <!-- About me 关于我 -->
 
-
+<!-- 
 <!-- 动态文字 -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8D6EF7&background=9FFF4700&center=true&vCenter=true&width=435&lines=%E4%B8%88%E5%A4%AB%E5%87%BA%E5%A4%84%E9%9D%9E%E6%97%A0%E6%84%8F%EF%BC%8C%E7%8C%BF%E9%B9%A4%E4%BB%8E%E6%9D%A5%E4%B8%8D%E8%87%AA%E7%9F%A5%E3%80%82)](https://git.io/typing-svg)
-
+-->
 </td></tr>
 
 <tr>
@@ -59,9 +59,9 @@
 <!-- 语言占比 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suyunyixi&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
-
+<!--
 
 <!-- 活动 -->
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Suyunyixi)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+-->
 <!-- Wakatime Graph-->
