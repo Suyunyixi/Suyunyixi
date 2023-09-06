@@ -12,7 +12,7 @@
     <!-- <a href="https://blog.csdn.net/weixin_50915462/"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;  -->
     <!-- <a href="https://www.zhihu.com/people/sunguoqi/"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp; -->
     <!-- visitor statistics logo 访客数统计徽标 -->
-    <img src="https://visitor-badge.glitch.me/badge?page_id=Suyunyixi" alt="访客统计" />
+    <!--  <img src="https://visitor-badge.glitch.me/badge?page_id=Suyunyixi" alt="访客统计" /> -->
   </div>
 
 <!-- 展示徽章 -->
