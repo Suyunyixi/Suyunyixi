@@ -45,8 +45,7 @@
 <td>
 
 <!-- 贪吃蛇代码贡献图 -->
-<!-- ![](https://raw.githubusercontent.com/Suyunyixi/Suyunyixi/main/assets/github-contribution-grid-snake.svg) -->
-
+![](https://raw.githubusercontent.com/seiran233/seiran233/main/assets/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9)
 
 
 
